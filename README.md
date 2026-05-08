@@ -1,8 +1,10 @@
-<p align="left">
-  <img width="55" alt="Robertino logo" src="https://github.com/user-attachments/assets/ZAMIJENI_S_TVOJIM_ASSET_ID" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Robertino2809/Robertino2809/main/github-banner.svg" alt="Robertino Puhanić" width="100%"/>
 </p>
 
-<h3>Hey, I'm Robertino 👋</h3>
+<br>
+
+## Hey, I'm Robertino 👋
 
 Full-stack developer and graphic designer based in Croatia.  
 Seven years doing both — I stopped choosing a long time ago.  
@@ -37,7 +39,7 @@ I build things that work *and* look right.
 
 ## Featured project
 
-### **[Traqr](https://traqr.app) — Trading Journal & Analytics**
+### [Traqr](https://traqr.app) — Trading Journal & Analytics
 A focused trading journal and performance platform for serious traders.  
 Built to bridge the gap between messy spreadsheets and overly complex tools.  
 Clean UI · Structured data · Meaningful insights.
@@ -54,7 +56,11 @@ Clean UI · Structured data · Meaningful insights.
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@robertinopuhanic.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZAMIJENI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertino-puhanic)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ZAMIJENI)
 
-<p align="center">© 2026 Robertino Puhanić · Based in Croatia</p>
+<br>
+
+<p align="center">
+  <sub>© 2026 Robertino Puhanić · Croatia · Remote-first</sub>
+</p>
