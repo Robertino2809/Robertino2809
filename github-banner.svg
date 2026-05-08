@@ -1,0 +1,24 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="320" fill="#155b58"/>
+  <line x1="0" y1="1" x2="1280" y2="1" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <line x1="0" y1="319" x2="1280" y2="319" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <line x1="540" y1="50" x2="540" y2="270" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+
+  <!-- Left side -->
+  <text x="60" y="85" font-family="monospace" font-size="11" letter-spacing="3" fill="rgba(255,255,255,0.45)">FULL-STACK DEVELOPER · GRAPHIC DESIGNER</text>
+  <text x="60" y="155" font-family="Georgia, serif" font-size="76" font-weight="300" fill="#F7F7F5" letter-spacing="-2">Robertino</text>
+  <text x="60" y="235" font-family="Georgia, serif" font-size="76" font-weight="300" font-style="italic" fill="rgba(255,255,255,0.45)" letter-spacing="-2">Puhanić</text>
+
+  <!-- Right side -->
+  <text x="910" y="85" font-family="monospace" font-size="13" letter-spacing="2.5" fill="rgba(255,255,255,0.35)" text-anchor="middle">BASED IN</text>
+  <text x="910" y="112" font-family="monospace" font-size="18" fill="rgba(255,255,255,0.8)" text-anchor="middle">Croatia</text>
+  <line x1="620" y1="132" x2="1200" y2="132" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="910" y="155" font-family="monospace" font-size="13" letter-spacing="2.5" fill="rgba(255,255,255,0.35)" text-anchor="middle">STACK</text>
+  <text x="910" y="182" font-family="monospace" font-size="18" fill="rgba(255,255,255,0.8)" text-anchor="middle">Next.js · React · PostgreSQL · Python · Django</text>
+  <line x1="620" y1="202" x2="1200" y2="202" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="910" y="225" font-family="monospace" font-size="13" letter-spacing="2.5" fill="rgba(255,255,255,0.35)" text-anchor="middle">AVAILABLE FOR</text>
+  <text x="910" y="252" font-family="monospace" font-size="18" fill="rgba(255,255,255,0.8)" text-anchor="middle">Freelance · Remote</text>
+
+  <rect x="1220" y="0" width="60" height="2.5" fill="rgba(255,255,255,0.25)"/>
+  <rect x="1277" y="0" width="2.5" height="60" fill="rgba(255,255,255,0.25)"/>
+</svg>
