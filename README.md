@@ -45,7 +45,7 @@ Built to bridge the gap between messy spreadsheets and overly complex tools.
 Clean UI · Structured data · Meaningful insights.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Robertino2809/Robertino2809/main/traqr-banner.png" alt="Robertino Puhanić" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Robertino2809/Robertino2809/main/traqr2.png" alt="Robertino Puhanić" width="100%"/>
 </p>
 
 ---
