@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Robertino2809/Robertino2809/main/github-banner.svg" alt="Robertino Puhanić" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Robertino2809/Robertino2809/main/github-banner2.svg" alt="Robertino Puhanić" width="100%"/>
 </p>
 
 <br>
