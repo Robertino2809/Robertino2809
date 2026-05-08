@@ -40,9 +40,15 @@ I build things that work *and* look right.
 ## Featured project
 
 ### [Traqr](https://traqr-app.com) — Trading Journal & Analytics
-A focused trading journal and performance platform for serious traders.  
-Built to bridge the gap between messy spreadsheets and overly complex tools.  
-Clean UI · Structured data · Meaningful insights.
+Log trades, track your portfolio, and actually understand your performance — all in one place.
+Traqr combines a structured trading journal with a multi-asset portfolio tracker for traders who are tired of juggling spreadsheets and half-baked tools.
+What it does:
+
+Log spot & futures trades with entry, SL, TP ladders, and auto P&L calculation
+Track stocks, ETFs, crypto, commodities, forex, and cash across multiple portfolios
+Visualize performance with a daily P&L heatmap, cumulative chart, and win rate analytics
+Get live prices via CoinMarketCap and Yahoo Finance
+Review trades with notes, tags, and a calendar view
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Robertino2809/Robertino2809/main/traqr2.png" alt="Robertino Puhanić" width="100%"/>
