@@ -16,7 +16,7 @@ I build things that work *and* look right.
 
 - **Full-Stack Development** — Next.js · React · Node.js · PostgreSQL · Supabase
 - **Graphic Design & Branding** — Visual identity · UI/UX · Design systems
-- **AI Automation** — n8n · OpenAI API · Custom workflows
+- **AI Automation** — Claude · Custom workflows
 - **Content Production** — Video · Photo · Brand content
 
 ---
@@ -39,7 +39,7 @@ I build things that work *and* look right.
 
 ## Featured project
 
-### [Traqr](https://traqr.app) — Trading Journal & Analytics
+### [Traqr](https://traqr-app.com) — Trading Journal & Analytics
 A focused trading journal and performance platform for serious traders.  
 Built to bridge the gap between messy spreadsheets and overly complex tools.  
 Clean UI · Structured data · Meaningful insights.
@@ -49,18 +49,18 @@ Clean UI · Structured data · Meaningful insights.
 ## Links
 
 - 🌐 [robertinopuhanic.dev](https://robertinopuhanic.dev)
-- 🚀 [Traqr](https://traqr.app)
+- 🚀 [Traqr](https://traqr-app.com)
 
 ---
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@robertinopuhanic.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertinopuhanic2809@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertino-puhanic)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ZAMIJENI)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/robertino_puhanic)
 
 <br>
 
 <p align="center">
-  <sub>© 2026 Robertino Puhanić · Croatia · Remote-first</sub>
+  <sub>© 2026 Robertino Puhanić · Croatia</sub>
 </p>
