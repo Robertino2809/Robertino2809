@@ -44,16 +44,6 @@ Clean UI · Structured data · Meaningful insights.
 
 ---
 
-## Content
-
-**YouTube — AI, Finance & Investing:**
-
-| [![Video 1](https://img.youtube.com/vi/ZAMIJENI_VIDEO_ID_1/hqdefault.jpg)](https://youtube.com/ZAMIJENI) | [![Video 2](https://img.youtube.com/vi/ZAMIJENI_VIDEO_ID_2/hqdefault.jpg)](https://youtube.com/ZAMIJENI) |
-|:--:|:--:|
-| **Video naslov 1** | **Video naslov 2** |
-
----
-
 ## Links
 
 - 🌐 [robertinopuhanic.dev](https://robertinopuhanic.dev)
@@ -67,4 +57,4 @@ Clean UI · Structured data · Meaningful insights.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZAMIJENI)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ZAMIJENI)
 
-<p align="center">© 2026 Robertino Puhanić · Based in Croatia · Remote-first</p>
+<p align="center">© 2026 Robertino Puhanić · Based in Croatia</p>
